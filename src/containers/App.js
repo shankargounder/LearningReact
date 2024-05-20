@@ -14,6 +14,8 @@ class App extends Component {
     persons: [
       {id: '1', name: 'Max', age: 28},
       {id: '2', name: 'Manu', age: 24},
+      {id: '3', name: 'shankar', age: 26},
+      {id: '2', name: 'Manu', age: 24},
       {id: '3', name: 'shankar', age: 26}
     ],
     showPerson: false,
